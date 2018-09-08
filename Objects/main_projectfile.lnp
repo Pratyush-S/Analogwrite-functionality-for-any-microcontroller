@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\timmer test.obj" 
+TO ".\Objects\main_projectfile" 
+PRINT(".\Listings\main_projectfile.m51") RAMSIZE(256) 
