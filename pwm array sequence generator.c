@@ -9,6 +9,4 @@ void main()
         if((i%3)==0)b++;
     }
     for(i=303;i>0;i--)printf("%d  ",a[i]);
-
-
 }
